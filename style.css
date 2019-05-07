@@ -1,0 +1,342 @@
+body {
+    background: whitesmoke;
+}
+
+button {
+    border: 0px;
+    }
+
+.bordermain {
+    background: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 758px;
+    }
+
+.main-post {
+    background: white;
+    height: 3600px;
+}
+
+
+.accountheader {
+    border-bottom-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    font-size: 22px;
+    padding: 12px;
+}
+.backbutton {
+    display: inline-block;
+    float: left;
+    padding-top: 2px;
+    font-size: 20px;
+    }
+.username{
+    display: inline-block;
+}
+.username {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    padding-left: 160px;
+    }
+.menubutton {
+    display: inline-block;
+    float: right;
+    padding-top: 4px;
+    line-height: 0px;
+    font-size: 24px;
+}
+
+
+.profile-pic img {
+    width: 22%;
+    height: 22%;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 0px;
+    float: left;
+    border-radius: 50%;
+}
+
+.counts {
+    position: relative;
+    padding-top: 30px;
+    text-align: center;
+}
+.post-count {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    margin-right: 40px;
+    margin-left: 20px;
+}
+.follower-count {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    margin-right: 40px;
+    margin-left: 20px;
+}
+.following-count {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+}
+
+.followbuttons {
+    position: relative;
+    padding-top: 20px;
+    padding-left: 50px;
+    text-align: center;
+}
+.follow-button {
+    display: inline-block;
+    background-color: rgb(0, 102, 255);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    width: 275px;
+    height: 30px;
+    font-size: 12px;
+    border-radius: 4px;
+}
+.suggested-follow {
+    display: inline-block;
+    background-color: rgb(0, 102, 255);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    width: 35px;
+    height: 30px;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+
+.bio {
+    padding-top: 30px;
+    padding-bottom: 30px;}
+.acctname {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 15px;
+    font-size: 18px;
+}
+.bioparagraph {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+    margin-right: 175px;
+    font-size: 16px;
+}
+
+
+.viewoptions {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 8px;
+    margin-bottom: 0px;
+}
+.gridview {
+    display: inline-block;
+    float: left;
+    padding-left: 40px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+.singleview {
+    display: inline-block;
+    padding-left: 160px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+.tagged {
+    display: inline-block;
+    float: right;
+    padding-right: 45px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+
+
+.feed-header {
+    border-bottom-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    height: 50px;
+    margin-top: 10px;
+
+
+}
+.headertitlearea {
+    float: left;
+    width: 100px;
+
+}
+.sml-profile-pic img {
+    display: inline-block;
+    width: 8%;
+    height: 8%;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-bottom: 8px;
+    margin-top: 2px;
+    float: left;
+    border-radius: 50%;
+}
+#sml-username {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 15px;
+    font-size: 15px;
+}
+#imagelocation {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+    font-size: 15px;
+}
+.sml-menu-button {
+    display: inline-block;
+    float: right;
+    margin-right: 12px;
+    line-height: 0px;
+    font-size: 24px;
+
+    padding-top: 15px;
+}
+.igphoto1 img {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding-bottom: 8px;
+    float: center;
+}
+.igphoto2 img {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding-bottom: 8px;
+    float: center;
+}
+.igphoto3 img {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding-bottom: 8px;
+    float: center;
+}
+
+.igphoto4 img {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding-bottom: 8px;
+    float: center;
+}
+
+.heartcommentdm {
+    display: inline-block;
+    float: left;
+    }
+.heart {
+    padding-left: 20px;
+
+}
+.bookmark {
+    display: inline-block;
+    float: right;
+    padding-right: 20px;
+
+}
+.likecaption {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    height: 40px;
+}
+.like {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-weight: bold;
+    /* margin-left: 15px; */
+    float: left;
+    width: 16%;
+    font-size: 15px;
+}
+.like p {
+    margin: 0px;
+}
+.caption {
+    float: right;
+    width: 84%;
+}
+#captionusername {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 15px;
+    font-size: 15px;
+}
+.caption p {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.postdate {
+    font-family: 'Roboto', sans-serif;
+    color: lightgray;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom:10px;
+    margin-left: 10px;
+    font-size: 10px;
+    width: 100%;
+}
+
+
+.footer {
+    border-top-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    display: inline-block;
+    padding-top: 10px;
+    width: 100%;
+
+  }
+
+.footer img {
+    display: inline-block;
+    overflow: hidden;
+    padding-right: 10px;
+    padding-left: 10px;
+    float: right;
+    border-radius: 50%;
+        margin-top: -35px;
+
+}
+.footer button {
+    width: 20%;
+}
+.footer homepage {
+    width: 20%;
+}
