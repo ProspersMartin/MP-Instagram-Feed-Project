@@ -1,3 +1,3 @@
 # MP-Instagram-Feed-Project
 
-![](./images/89ECDDDC-4F94-4015-B4A3-112A0856D5BF.JPG)
+The aim of this project was to replicate the layout of an Instagram Post, using only HTML and CSS. 
