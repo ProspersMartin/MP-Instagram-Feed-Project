@@ -1,6 +1,6 @@
 # MP-Instagram-Feed-Project
 
-  The aim of this project was to replicate the layout of an Instagram Post, using only HTML and CSS. 
+  The aim of this project was to replicate the layout of an Instagram user account feed, based on the company's design prior to their Spring of 2019 update. 
 
 
 ## Deployment Instructions (How to Open Project Live)
