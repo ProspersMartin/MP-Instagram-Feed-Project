@@ -16,4 +16,4 @@ The project was developed using only HTML, CSS, Font Awesome (for the Icons), an
 
 ### Final Product
                                           
-                                          ![](./images/instagramFeedGif.gif)
+![](./images/instagramFeedGif.gif)
