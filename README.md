@@ -13,3 +13,5 @@
 
 ## Build / Layout
 The project was developed use only HTML, CSS, Font Awesome (for the Icons), and Google Fonts (to match the Instagram typography as closely as possible).
+
+![](./images/instagramFeedGif.gif)
