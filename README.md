@@ -12,7 +12,8 @@ The project was developed using only HTML, CSS, Font Awesome (for the Icons), an
 ## Deployment Instructions (How to Open Project Live)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/ProspersMartin/MP-Instagram-Feed-Project)
 
-  This project was originally developed on and run through GitPod. If you'd like to view the page live in a browser, run "python3 -m http.server 3000" in the command terminal. Once entered, Gitpod will give you options to view the project; click "Open Browser". A new tab should open up displaying the page. 
+  If you'd like to view the page live in a browser, click the button above; once gitpod loads, run "python3 -m http.server 3000" in the command terminal. Once entered, Gitpod will give you options to view the project; click "Open Browser". A new tab should open up displaying the page.
+
 
 ![](./images/sampleOfRunCommand.png)
 
